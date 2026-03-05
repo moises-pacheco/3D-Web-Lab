@@ -19,4 +19,7 @@
     git commit -m "mensaje" 
     git checkout main //Nos cambiamos a la rama main
     git merge nombre-rama //Nos pasamos a la rama.
-    git push origin main //Subimos los cambios a esa rama.
+    git push origin main //Subimos los cambios a esa rama
+
+- Subir la nueva rama creada al repositorio:
+    git push -u origin laboratorio
