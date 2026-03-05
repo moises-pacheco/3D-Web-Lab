@@ -1,0 +1,1 @@
+El canvas es el lienzo donde pintamos depues con JavaScript

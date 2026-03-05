@@ -1,0 +1,9 @@
+*{
+    font-family: sans-serif;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
