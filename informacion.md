@@ -7,3 +7,16 @@
     - Una camara
     - Un motor de render
     - Aplicar el tamanio del render.
+
+
+# GIT
+
+- Para crear una rama aparte se utiliza el:
+    git checkout -b nombre-de-tu-rama
+
+- Para poder guardar los cambios se hace lo siguiente:
+    git add . 
+    git commit -m "mensaje" 
+    git checkout main //Nos cambiamos a la rama main
+    git merge nombre-rama //Nos pasamos a la rama.
+    git push origin main //Subimos los cambios a esa rama.
