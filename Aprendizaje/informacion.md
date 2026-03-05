@@ -8,6 +8,12 @@
     - Un motor de render
     - Aplicar el tamanio del render.
 
+### Pasos para crear una geometria:
+    - Crear la geometria del objeto.
+    - Crear el material.
+    - Crear finalmente el objeto con el material y su geometria.
+    -Anadirlo a la escena
+
 
 # GIT
 
