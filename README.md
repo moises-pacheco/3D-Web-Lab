@@ -1,4 +1,4 @@
-# Laboratorio 3D: Mi viaje con Three.js
+# Mi viaje con Three.js
 
 ¡Bienvenido a mi espacio de experimentación! Este repositorio es mi bitácora personal donde exploro la tercera dimensión en la web, desde geometrías básicas hasta shaders avanzados.
 
